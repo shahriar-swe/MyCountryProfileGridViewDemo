@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyGridViewDemo</string>
+
+    <string name="title_text">Country Profile</string>
+    <string name="message_text">Do You Want To Exit Country Profile Project?</string>
+
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Sri lanka</item>
+
+    </string-array>
+
+    <string name="bangladesh_text">Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.
+                                   Capital: Dhaka\n
+                                   Date format: dd-mm-yyyy AD\n
+                                   Population: 161.4 million (2018) World Bank\n
+                                   Prime minister: Sheikh Hasina\n
+                                   President: Abdul Hamid\n</string>
+
+
+    <string name="india_text">India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world. Wikipedia
+                              Gross domestic product: 2.719 trillion USD (2018) Trending, World Bank\n
+                              Capital: New Delhi\n
+                              Date format: : dd-mm-yyyy; yyyy-mm-dd;\n
+                              Mains electricity: 230 V–50 Hz\n
+                              Driving side: left\n</string>
+
+
+    <string name="pakistan_text">Pakistan, populous and multiethnic country of South Asia. Having a predominately Indo-Iranian speaking population, Pakistan has historically and culturally been associated with its neighbours Iran, Afghanistan, and India. Since Pakistan and India achieved independence in 1947, Pakistan has been distinguished from its larger southeastern neighbour by its overwhelmingly Muslim population (as opposed to the predominance of Hindus in India). Pakistan has struggled throughout its existence to attain political stability and sustained social development. Its capital is Islamabad, in the foothills of the Himalayas in the northern part of the country, and its largest city is Karachi, in the south on the coast of the Arabian Sea.
+                                 Capital: Islamabad\n
+                                 Population: 212.2 million (2018) World Bank\n
+                                 Currency: Pakistani rupee\n
+                                 Recognised regional languages: Punjabi (39%) • Pashto (18%)\n</string>
+</resources>
